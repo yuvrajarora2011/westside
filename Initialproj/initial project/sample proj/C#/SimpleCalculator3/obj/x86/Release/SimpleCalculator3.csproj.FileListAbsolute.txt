@@ -1,0 +1,5 @@
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\bin\Release\SimpleCalculator3.exe
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\bin\Release\SimpleCalculator3.pdb
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\obj\x86\Release\SimpleCalculator3.csprojResolveAssemblyReference.cache
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\obj\x86\Release\SimpleCalculator3.exe
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\obj\x86\Release\SimpleCalculator3.pdb

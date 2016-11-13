@@ -1,0 +1,12 @@
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\bin\Debug\Script Utility.exe.config
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\obj\Debug\Script Utility.csprojResolveAssemblyReference.cache
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\obj\Debug\Test1.Form1.resources
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\obj\Debug\Test1.Properties.Resources.resources
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\obj\Debug\Script Utility.csproj.GenerateResource.Cache
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\bin\Debug\Script Utility.exe
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\bin\Debug\Script Utility.pdb
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\bin\Debug\Acidaes.Data.dll
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\bin\Debug\Acidaes.Deployment.dll
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\obj\Debug\Script Utility.exe
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\ScriptTool\Test1\obj\Debug\Script Utility.pdb

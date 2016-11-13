@@ -1,0 +1,5 @@
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\Extensions\ExtendedOperations.dll
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\Extensions\ExtendedOperations.pdb
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\ExtendedOperations\obj\Debug\ExtendedOperations.csprojResolveAssemblyReference.cache
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\ExtendedOperations\obj\Debug\ExtendedOperations.dll
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\ExtendedOperations\obj\Debug\ExtendedOperations.pdb

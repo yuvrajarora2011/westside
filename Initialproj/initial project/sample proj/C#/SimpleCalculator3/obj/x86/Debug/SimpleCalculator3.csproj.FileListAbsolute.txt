@@ -1,0 +1,4 @@
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\bin\Debug\SimpleCalculator3.exe
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\bin\Debug\SimpleCalculator3.pdb
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\obj\x86\Debug\SimpleCalculator3.exe
+E:\SetUpForBuilds\ExecuteSQLScript\Initialproj\initial project\sample proj\C#\SimpleCalculator3\obj\x86\Debug\SimpleCalculator3.pdb

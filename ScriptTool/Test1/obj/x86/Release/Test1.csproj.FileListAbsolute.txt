@@ -1,0 +1,12 @@
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Release\Test1.exe.config
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Release\Test1.exe
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Release\Test1.pdb
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Release\Acidaes.BusinessNext.Caching.dll
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Release\Acidaes.Data.dll
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Release\Acidaes.Deployment.dll
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Release\Test1.Form1.resources
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Release\Test1.Properties.Resources.resources
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Release\Script Utility.csproj.GenerateResource.Cache
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Release\Test1.exe
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Release\Test1.pdb
+C:\Users\nehak\Documents\Visual Studio 2010\Projects\Test1\Test1\obj\x86\Release\Script Utility.csprojResolveAssemblyReference.cache

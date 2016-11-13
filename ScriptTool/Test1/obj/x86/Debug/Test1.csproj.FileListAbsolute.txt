@@ -1,0 +1,9 @@
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.exe
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.pdb
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.Form1.resources
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.Properties.Resources.resources
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.csproj.GenerateResource.Cache
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.exe
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.pdb
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Acidaes.Data.dll
+c:\users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.csprojResolveAssemblyReference.cache

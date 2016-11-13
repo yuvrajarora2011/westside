@@ -1,0 +1,23 @@
+C:\Users\nehak\Desktop\Test1\Test1\bin\Release\Script Utility.exe.config
+C:\Users\nehak\Desktop\Test1\Test1\bin\Release\Script Utility.exe
+C:\Users\nehak\Desktop\Test1\Test1\bin\Release\Script Utility.pdb
+C:\Users\nehak\Desktop\Test1\Test1\bin\Release\Acidaes.BusinessNext.Caching.dll
+C:\Users\nehak\Desktop\Test1\Test1\bin\Release\Acidaes.Data.dll
+C:\Users\nehak\Desktop\Test1\Test1\bin\Release\Acidaes.Deployment.dll
+C:\Users\nehak\Desktop\Test1\Test1\obj\x86\Release\Test1.Form1.resources
+C:\Users\nehak\Desktop\Test1\Test1\obj\x86\Release\Test1.Properties.Resources.resources
+C:\Users\nehak\Desktop\Test1\Test1\obj\x86\Release\Script Utility.csproj.GenerateResource.Cache
+C:\Users\nehak\Desktop\Test1\Test1\obj\x86\Release\Script Utility.exe
+C:\Users\nehak\Desktop\Test1\Test1\obj\x86\Release\Script Utility.pdb
+C:\Users\nehak\Desktop\Test1\Test1\obj\x86\Release\Script Utility.csprojResolveAssemblyReference.cache
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\bin\Release\Script Utility.exe.config
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\obj\x86\Release\Script Utility.exe
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\obj\x86\Release\Script Utility.pdb
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\obj\x86\Release\Test1.Form1.resources
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\obj\x86\Release\Test1.Properties.Resources.resources
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\obj\x86\Release\Script Utility.csproj.GenerateResource.Cache
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\bin\Release\Script Utility.exe
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\bin\Release\Script Utility.pdb
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\bin\Release\Acidaes.BusinessNext.Caching.dll
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\bin\Release\Acidaes.Data.dll
+C:\Users\nehak\Desktop\Backup Data @Neha Kak\Test1\Test1\bin\Release\Acidaes.Deployment.dll

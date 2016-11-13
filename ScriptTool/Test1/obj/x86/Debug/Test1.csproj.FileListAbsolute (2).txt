@@ -1,0 +1,38 @@
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.Form1.resources
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.Properties.Resources.resources
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Script Utility.csproj.GenerateResource.Cache
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.exe.config
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.exe
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Test1.pdb
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Acidaes.Data.dll
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\bin\Debug\Acidaes.Deployment.dll
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.exe
+C:\Users\nehak\documents\visual studio 2010\Projects\Test1\Test1\obj\x86\Debug\Test1.pdb
+C:\Users\nehak\Desktop\Test1-copy\Test1\bin\Debug\Test1.exe.config
+C:\Users\nehak\Desktop\Test1-copy\Test1\obj\x86\Debug\Test1.exe
+C:\Users\nehak\Desktop\Test1-copy\Test1\obj\x86\Debug\Test1.pdb
+C:\Users\nehak\Desktop\Test1-copy\Test1\bin\Debug\Test1.exe
+C:\Users\nehak\Desktop\Test1-copy\Test1\bin\Debug\Test1.pdb
+C:\Users\nehak\Desktop\Test1-copy\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+C:\Users\nehak\Desktop\Test1-copy\Test1\bin\Debug\Acidaes.Data.dll
+C:\Users\nehak\Desktop\Test1-copy\Test1\bin\Debug\Acidaes.Deployment.dll
+C:\Users\nehak\Desktop\Test1-copy\Test1\obj\x86\Debug\Script Utility.csprojResolveAssemblyReference.cache
+C:\Users\nehak\Desktop\Test1-copy\Test1\obj\x86\Debug\Test1.Form1.resources
+C:\Users\nehak\Desktop\Test1-copy\Test1\obj\x86\Debug\Test1.Properties.Resources.resources
+C:\Users\nehak\Desktop\Test1-copy\Test1\obj\x86\Debug\Script Utility.csproj.GenerateResource.Cache
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\bin\Debug\Test1.exe.config
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\obj\x86\Debug\Test1.exe
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\obj\x86\Debug\Test1.pdb
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\bin\Debug\Test1.exe
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\bin\Debug\Test1.pdb
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\bin\Debug\Acidaes.Data.dll
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\bin\Debug\Acidaes.Deployment.dll
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\obj\x86\Debug\Script Utility.csprojResolveAssemblyReference.cache
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\obj\x86\Debug\Script Utility.csproj.GenerateResource.Cache
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\obj\x86\Debug\ScriptUtilityTool.Form1.resources
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test1\obj\x86\Debug\ScriptUtilityTool.Properties.Resources.resources
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test\bin\Debug\Test1.exe.config
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test\obj\x86\Debug\Test1.exe
+C:\Users\nehak\Desktop\RunSetUpScriptTool\Test\obj\x86\Debug\Test1.pdb

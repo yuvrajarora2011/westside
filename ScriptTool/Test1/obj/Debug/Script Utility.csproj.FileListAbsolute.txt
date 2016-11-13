@@ -1,0 +1,35 @@
+E:\ScriptTool\Test1\bin\Debug\Script Utility.exe.config
+E:\ScriptTool\Test1\bin\Debug\Script Utility.exe
+E:\ScriptTool\Test1\bin\Debug\Script Utility.pdb
+E:\ScriptTool\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+E:\ScriptTool\Test1\bin\Debug\Acidaes.Data.dll
+E:\ScriptTool\Test1\bin\Debug\Acidaes.Deployment.dll
+E:\ScriptTool\Test1\obj\Debug\Script Utility.csprojResolveAssemblyReference.cache
+E:\ScriptTool\Test1\obj\Debug\Test1.Form1.resources
+E:\ScriptTool\Test1\obj\Debug\Test1.Properties.Resources.resources
+E:\ScriptTool\Test1\obj\Debug\Script Utility.csproj.GenerateResource.Cache
+E:\ScriptTool\Test1\obj\Debug\Script Utility.exe
+E:\ScriptTool\Test1\obj\Debug\Script Utility.pdb
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.exe.config
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.exe
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.pdb
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.Data.dll
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.Deployment.dll
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.csprojResolveAssemblyReference.cache
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Test1.Form1.resources
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Test1.Properties.Resources.resources
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.csproj.GenerateResource.Cache
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.exe
+D:\GIT PROJECT\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.pdb
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.exe.config
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.exe
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.pdb
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Script Utility.exe
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.BusinessNext.Caching.dll
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.Data.dll
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\bin\Debug\Acidaes.Deployment.dll
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.csprojResolveAssemblyReference.cache
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Test1.Form1.resources
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Test1.Properties.Resources.resources
+C:\Users\Aman Sachdeva\Documents\ExecuteSQLScript\ScriptTool\Test1\obj\Debug\Script Utility.csproj.GenerateResource.Cache
